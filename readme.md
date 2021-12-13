@@ -9,6 +9,6 @@ Hey! welcome to my portfolio.
 
  1. javascirpt
  1. node.js
- 1. repl.it
+ 1. repl.iti
  1. CHALk
                                                             
